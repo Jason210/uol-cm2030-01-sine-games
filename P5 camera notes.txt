@@ -1,0 +1,10 @@
+
+x         Number: camera position value on x axis (Optional)
+y         Number: camera position value on y axis (Optional)
+z         Number: camera position value on z axis (Optional)
+centerX   Number: x coordinate representing center of the sketch (Optional)
+centerY   Number: y coordinate representing center of the sketch (Optional)
+centerZ   Number: z coordinate representing center of the sketch (Optional)
+upX       Number: x component of direction 'up' from camera (Optional)
+upY       Number: y component of direction 'up' from camera (Optional)
+upZ       Number: z component of direction 'up' from camera (Optional)
