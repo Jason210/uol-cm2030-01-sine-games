@@ -1,4 +1,3 @@
-
 x         Number: camera position value on x axis (Optional)
 y         Number: camera position value on y axis (Optional)
 z         Number: camera position value on z axis (Optional)
